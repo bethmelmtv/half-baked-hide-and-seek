@@ -24,6 +24,12 @@
 2) Pass the correct arguments to the handleGuess functions
 3) Finish the handleGuess declaration
 
+
+
+
+
+
+
 [Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
 
 ### Live Example:
