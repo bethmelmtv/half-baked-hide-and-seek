@@ -65,7 +65,7 @@ function handleGuess(userGuess, correctSpot) {
     // we can do that by removing the .face class from all containers
     if (userGuess === correctSpot) {
         correctGuesses++;
-    };
+    }
     shedContainer.classList.remove('face');
     treeContainer.classList.remove('face');
     boulderContainer.classList.remove('face');
